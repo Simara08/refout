@@ -1,0 +1,14 @@
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\bin\Debug\netcoreapp3.1\addnew.exe
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\bin\Debug\netcoreapp3.1\addnew.deps.json
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\bin\Debug\netcoreapp3.1\addnew.runtimeconfig.json
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\bin\Debug\netcoreapp3.1\addnew.runtimeconfig.dev.json
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\bin\Debug\netcoreapp3.1\addnew.dll
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\bin\Debug\netcoreapp3.1\addnew.pdb
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\obj\Debug\netcoreapp3.1\addnew.csproj.AssemblyReference.cache
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\obj\Debug\netcoreapp3.1\addnew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\obj\Debug\netcoreapp3.1\addnew.AssemblyInfoInputs.cache
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\obj\Debug\netcoreapp3.1\addnew.AssemblyInfo.cs
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\obj\Debug\netcoreapp3.1\addnew.csproj.CoreCompileInputs.cache
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\obj\Debug\netcoreapp3.1\addnew.dll
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\obj\Debug\netcoreapp3.1\addnew.pdb
+C:\Users\simar\OneDrive\Desktop\task\task7\addnew\addnew\obj\Debug\netcoreapp3.1\addnew.genruntimeconfig.cache
