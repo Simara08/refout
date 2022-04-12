@@ -1,0 +1,5 @@
+C:\Users\Simara\Desktop\CourseManagment\CourseManagment\obj\Debug\netcoreapp3.1\CourseManagment.csproj.AssemblyReference.cache
+C:\Users\Simara\Desktop\CourseManagment\CourseManagment\obj\Debug\netcoreapp3.1\CourseManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simara\Desktop\CourseManagment\CourseManagment\obj\Debug\netcoreapp3.1\CourseManagment.AssemblyInfoInputs.cache
+C:\Users\Simara\Desktop\CourseManagment\CourseManagment\obj\Debug\netcoreapp3.1\CourseManagment.AssemblyInfo.cs
+C:\Users\Simara\Desktop\CourseManagment\CourseManagment\obj\Debug\netcoreapp3.1\CourseManagment.csproj.CoreCompileInputs.cache
