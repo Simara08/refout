@@ -1,0 +1,14 @@
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\bin\Debug\netcoreapp3.1\kokaltimethod.exe
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\bin\Debug\netcoreapp3.1\kokaltimethod.deps.json
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\bin\Debug\netcoreapp3.1\kokaltimethod.runtimeconfig.json
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\bin\Debug\netcoreapp3.1\kokaltimethod.runtimeconfig.dev.json
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\bin\Debug\netcoreapp3.1\kokaltimethod.dll
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\bin\Debug\netcoreapp3.1\kokaltimethod.pdb
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\obj\Debug\netcoreapp3.1\kokaltimethod.csproj.AssemblyReference.cache
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\obj\Debug\netcoreapp3.1\kokaltimethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\obj\Debug\netcoreapp3.1\kokaltimethod.AssemblyInfoInputs.cache
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\obj\Debug\netcoreapp3.1\kokaltimethod.AssemblyInfo.cs
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\obj\Debug\netcoreapp3.1\kokaltimethod.csproj.CoreCompileInputs.cache
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\obj\Debug\netcoreapp3.1\kokaltimethod.dll
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\obj\Debug\netcoreapp3.1\kokaltimethod.pdb
+C:\Users\simar\source\repos\kokaltimethod\kokaltimethod\obj\Debug\netcoreapp3.1\kokaltimethod.genruntimeconfig.cache
